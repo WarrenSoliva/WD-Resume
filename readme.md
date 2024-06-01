@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=WarrenSoliva/WD-Resume)
 
 ---
 
@@ -59,6 +59,8 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
+This project is all about my resume. The purpose of this project is create a website that can be operated as a resume. The key components of my project is firstly building the profile section, then the discription of the profile. Secondly i created the body which contains skills, education, certification, experience, and interest. Lastly for the footer, contact, contact description, and social. Then i use CSS to style the structure that i made. The technology used is HTML AND CSS, HTML is used to create structure, and CSS is used to design the HTML structure.
+
 Guiding Question:
 - What is the project
 - Whats the purpose
@@ -68,15 +70,14 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+ 
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +118,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Resume | The purpose of this code is to create a resume | https://github.com/ShaifArfan/html-css-resume |
